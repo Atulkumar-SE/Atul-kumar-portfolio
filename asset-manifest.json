@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Atul-kumar-portfolio/static/css/main.7a863842.css",
-    "main.js": "/Atul-kumar-portfolio/static/js/main.44ed93dc.js",
+    "main.js": "/Atul-kumar-portfolio/static/js/main.61546ed1.js",
     "static/media/e-commerce.png": "/Atul-kumar-portfolio/static/media/e-commerce.a8ceb187276aec261d26.png",
     "static/media/graphic.jpg": "/Atul-kumar-portfolio/static/media/graphic.3577d5cf61921d1a0be2.jpg",
     "static/media/web designer.png": "/Atul-kumar-portfolio/static/media/web designer.fdb4ece113835fec18ac.png",
@@ -10,10 +10,10 @@
     "static/media/responsive web.jpg": "/Atul-kumar-portfolio/static/media/responsive web.ec68f189a2141104fe30.jpg",
     "index.html": "/Atul-kumar-portfolio/index.html",
     "main.7a863842.css.map": "/Atul-kumar-portfolio/static/css/main.7a863842.css.map",
-    "main.44ed93dc.js.map": "/Atul-kumar-portfolio/static/js/main.44ed93dc.js.map"
+    "main.61546ed1.js.map": "/Atul-kumar-portfolio/static/js/main.61546ed1.js.map"
   },
   "entrypoints": [
     "static/css/main.7a863842.css",
-    "static/js/main.44ed93dc.js"
+    "static/js/main.61546ed1.js"
   ]
 }
