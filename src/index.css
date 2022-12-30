@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Monoton&family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Monoton&family=Prata&family=Press+Start+2P&display=swap');
+
+/* ---------------------globaly CSS------------------------ */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  background: #000000;
+}
+p,a{
+  text-decoration: none;
+  color: #000000;
+}
+ul{
+  list-style-type: none;
+}
+.btn1{
+  color: #000000;
+  padding: .6rem 2rem;
+  font-size: 1.5rem;
+  background: #15f4ee;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.btn2{
+  color: #000000;
+  padding: .6rem .8rem;
+  font-size: 1.2rem;
+  background: #15f4ee;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20px;
+}
+.btn3{
+  color: #000000;
+  padding: .6rem .8rem;
+  font-size: 1.2rem;
+  background: #15f4ee;
+  border: 2px solid #fff;
+  border-radius: 10px;
+}
+.btn1:hover, .btn2:hover, .btn3:hover{
+  opacity: .8;
+}
+
+h1,h2,h4,h5,p,a{
+  color: #fff;
+}
+.f_icon{
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255);
+  margin-right: 2rem;
+}
+
+.f_social{
+  font-size: 2.5rem;
+  color: #fff;
+  margin: 1rem;
+
+}
+.f_social:hover{
+  color: aqua;
+  transform: scale(1.2);
+}

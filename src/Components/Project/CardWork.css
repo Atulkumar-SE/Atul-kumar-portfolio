@@ -1,0 +1,46 @@
+.project_heading{
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+}
+.project_contianer{
+    max-width: 100%;
+    /* max-width: 1140px; */
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    padding: 0 2rem 5rem 2rem;
+    /* background-color: gray; */
+}
+.project_card{
+    padding: 1rem 1rem;
+    background-color: #141414;
+}
+.project_card img{
+    width: 100%;
+}
+.project_title{
+    padding: 1rem 0;
+}
+.pro_detail p{
+    padding-bottom: 1rem;
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.pro_btn{
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+.btn3{
+    padding: 0.5rem 1rem;
+}
+/* ------------------Mobile Responsive----------------------- */
+@media (max-width:750px) {
+    .project_contianer{
+        max-width: 90%;
+        padding: 0 0 5rem 0;
+
+        grid-template-columns: 1fr;
+    }
+}
